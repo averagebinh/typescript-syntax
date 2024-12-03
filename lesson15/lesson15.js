@@ -1,5 +1,2 @@
-let name = 'eric'; //string
-
-name = 35; //number
-
-name = false; //boolean
+let name = 'bin';
+name = 25;

@@ -1,4 +1,5 @@
-let namev2: any = 'Eric'; // any everywhere
+let name1: string;
+name1 = 'bih';
 
-namev2 = true;
-
+name1.split('-');
+console.log(name1);
